@@ -1,6 +1,7 @@
 # <p align="center">Aniwatch</p>
-<center>Watch Anime Online</center>
-This Installation is Only for Windows ( soon linux and download support will be added !)
+<p align="center">Watch Anime Online</p>
+<p align="center">This Installation is Only for Windows ( soon linux and download support will be added !)</p>
+
 ## <span id="installation">💻 Installation</span>
 1. Clone the repository and move into the directory.
    ```bash
